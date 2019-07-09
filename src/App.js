@@ -38,7 +38,6 @@ class App extends Component {
                 src='https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png' alt='menu-bar'/>
               </li>
               <div className={this.state.menuStatus}>
-                
               </div>
               
             </ul>

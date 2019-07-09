@@ -102,6 +102,8 @@ img  {
   }
 
   .menu-text {
-      display: none
+      display: none;
+      position: relative;
+      z-index: inherit;
   }
 }
